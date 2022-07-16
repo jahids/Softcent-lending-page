@@ -1,0 +1,12 @@
+.customer-section{
+    margin: 140px 0;
+}
+.customer-heading{
+  text-align: center;
+  padding-bottom: 77px;
+}
+.brands{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

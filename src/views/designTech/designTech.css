@@ -1,0 +1,12 @@
+.design-tech-section{
+    margin: 140px 0;
+}
+.design-tech-heading {
+  text-align: center;
+  padding-bottom: 103px;
+}
+.brands{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
